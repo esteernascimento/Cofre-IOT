@@ -381,8 +381,5 @@ Durante o desenvolvimento, foram testadas as seguintes situações:
 
 ## ✅ Conclusão
 
-O projeto do cofre eletrônico com Arduino permitiu aplicar, na prática, conceitos de programação, eletrônica básica e sistemas embarcados.
-
-A proposta simula um sistema de segurança simples, utilizando autenticação por senha, validação por potenciômetro e botão de emergência. Com isso, o projeto demonstra como diferentes componentes eletrônicos podem trabalhar em conjunto para criar uma solução interativa e funcional.
-
+O projeto simula um sistema de segurança simples, utilizando senha, potenciômetro e botão de emergência para controlar a abertura do cofre. Com isso, foi possível entender melhor como diferentes componentes, como botões, LEDs, buzzer e display LCD, podem trabalhar juntos para formar uma solução interativa e funcional.
 

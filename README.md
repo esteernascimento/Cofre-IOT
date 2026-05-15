@@ -383,3 +383,8 @@ Durante o desenvolvimento, foram testadas as seguintes situações:
 
 O projeto simula um sistema de segurança simples, utilizando senha, potenciômetro e botão de emergência para controlar a abertura do cofre. Com isso, foi possível entender melhor como diferentes componentes, como botões, LEDs, buzzer e display LCD, podem trabalhar juntos para formar uma solução interativa e funcional.
 
+
+## Autoras
+Ester Pereira dos Santos Nascimento    
+Luana de Almeida Ferreira
+
